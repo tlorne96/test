@@ -1,0 +1,5 @@
+ahslkahfljahflahflsafhalfdhalaq1	aq1surootpass
+cd ansible-s	
+ls pla	
+ansible-playbook pla	aq1surootpass
+ssh root@172.16.
